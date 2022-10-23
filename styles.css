@@ -21,22 +21,18 @@ ul {
   list-style-type: square;
 }
 
+.div-1 {
+  background-color: red; 
+}
+   
+.div-2 {
+  background-color: silver; 
+}
+
 .index-div {
   border-style: dotted;
   border-width: 2px;
   width: 200px;
   height: 200px;
 }
-.div-1 {
- 
-  background-color: red; 
 
-}
-   
-.div-2 {
-  border-style: dotted;
-  border-width: 2px;
-  background-color: salmon; 
-  height: 100px;
-  width: 800px;
-}
