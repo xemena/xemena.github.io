@@ -32,6 +32,7 @@ ul {
    
 .div-2 {
   background-color: silver; 
+  border-radius: 25px;
    padding: 20px;
 }
 
