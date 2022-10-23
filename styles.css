@@ -31,8 +31,8 @@ ul {
   border-style: dotted;
   border-width: 2px;
   background-color: red; 
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 50px;
 }
    
 .div-2 {
@@ -40,5 +40,5 @@ ul {
   border-width: 2px;
   background-color: salmon; 
   height: 100px;
-  width: 100px;
+  width: 800px;
 }
